@@ -30,7 +30,7 @@ Here is a table of my language usage in Github. *Please note that Top languages 
 
 #### See you next time!
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daniCh8/count.svg" />
 </p>
