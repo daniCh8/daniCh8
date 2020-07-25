@@ -16,26 +16,14 @@
 <br />
 <br />
 
-I'm Daniele Chiappalupi, a motivated Computer Science from Italy.
+I am a Computer Scientist from Italy, passionate about Software Developing and Deep Learning.
+Here are some bullets about me:
+- 🎓🇮🇹 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
+- 🎓🇨🇭 I am currently pursuing a Master in Computer Science at ETH Zürich.
+- 🏂🏀🎸 I love going snowboarding, playing basketball and playing the guitar.
 
-Some bullets about me:
-- <a>
-    <img align="left" alt="Italy" width="30px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/italy-grad.svg" />
-  </a> I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
+#### Languages Overview
+
+Here is a table of my language usage in Github. Please note that Top languages does not indicate my skill level or anything like that: it's a github metric of which languages i have the most code on github. You can find the feature at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/daniCh8?tab=repositories)
-
-<!--
-**daniCh8/daniCh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
