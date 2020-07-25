@@ -6,6 +6,12 @@
 <a href="https://www.instagram.com/danich.8/">
   <img align="left" alt="Daniele Chiappalupi | Instagram" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
 </a>
+<a href="https://www.facebook.com/daniele.chiappalupi/">
+  <img align="left" alt="Daniele Chiappalupi | Facebook" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/facebook.svg" />
+</a>
+
+<br />
+<br />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/anuraghazra/github-readme-stats)
 
