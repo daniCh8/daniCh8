@@ -18,14 +18,9 @@
 
 I'm Daniele Chiappalupi, a motivated Computer Science from Italy.
 
-<br />
-
 Some bullets about me:
 - <a>
-    <img align="left" alt="Italy" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/italy.svg" />
-  </a>
-  <a>
-    <img align="left" alt="GradHat" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/graduationhat.svg" />
+    <img align="left" alt="Italy" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/italy-grad.svg" />
   </a> I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/daniCh8?tab=repositories)
