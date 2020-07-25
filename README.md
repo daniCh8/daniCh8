@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&theme=radical&hide=glsl,python" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="github-readme-stats.vercel.app/api?username=daniCh8&show_icons=true&theme=radical&line_height=27" alt="Anurag's github stats" />
-</a>
+[![daniCh8's github stats](https://github-readme-stats.vercel.app/api?username=daniCh8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **daniCh8/daniCh8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
