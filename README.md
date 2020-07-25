@@ -13,6 +13,12 @@
 <br />
 <br />
 
+I'm Daniele Chiappalupi, a motivated Computer Science from Italy 🇮🇹.
+Some bullets about me:
+- <a href="https://www.polimi.it/">
+    <img align="left" alt="Politecnico di Milano" width="20px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/polimi.svg" />
+  </a> I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering;
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
