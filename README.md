@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8)](https://github.com/anuraghazra/github-readme-stats)
 [![daniCh8's github stats](https://github-readme-stats.vercel.app/api?username=daniCh8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
