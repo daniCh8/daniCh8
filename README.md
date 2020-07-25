@@ -28,12 +28,9 @@ Here is a table of my language usage in Github. *Please note that Top languages 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/daniCh8?tab=repositories)
 
-#### Guestbook
+#### See you next time!
 
-Let me know you've stopped by! Here is a guestbook you can sign to appear in my profile. Source code is here: ([JasonEtco/readme-guestbook](https://github.com/JasonEtco/readme-guestbook))
-
-<a href="https://readme-guestbook.now.sh">Sign it!</a>
-
-<!--START_SECTION:guestbook-->
-<!--END_SECTION:guestbook-->
-<!--GUESTBOOK_LIST []-->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daniCh8/count.svg" />
+</p>
