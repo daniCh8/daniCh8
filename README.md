@@ -1,4 +1,4 @@
-### Hello there, I'm Daniele! 👋
+### Hello world, I'm Daniele! 👋
 
 <a href="https://www.linkedin.com/in/daniele-chiappalupi-1ab2441b3/">
   <img align="left" alt="Daniele Chiappalupi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
