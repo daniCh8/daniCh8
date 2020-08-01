@@ -22,13 +22,11 @@ Here are some bullets about me:
 - 📚 I am currently pursuing a Master in Computer Science at ETH Zürich.
 - 🎲 In my free time, I love going snowboarding 🏂, playing basketball 🏀 and playing the guitar 🎸.
 
-<!--
 #### Languages Overview
 
 Here is a table of my language usage in Github. *Please note that Top languages does not indicate my skill level or similar: it's a github metric of which languages i have the most code on github. You can find the feature at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL)](https://github.com/daniCh8?tab=repositories)
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniCh8&hide=VHDL,CSS&style=compact)](https://github.com/daniCh8?tab=repositories)
 
 #### See you next time!
 
