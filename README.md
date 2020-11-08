@@ -27,7 +27,7 @@ Here are some bullets about me:
 Here is a chart of my language usage in Github. <br />
 _**Please note that Most Used Languages does not indicate my skill level or similar**: it's a github metric of which languages i have the most code on github. You can find the original feature at [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). The one below is a slightly modified version from my fork [danich8/github-readme-stats](https://github.com/daniCh8/github-readme-stats)._
 
-[![Top Languages](https://github-readme-stats.danich8.vercel.app/api/top-langs/?username=daniCh8&layout=compact&hide=VHDL,CSS,ShaderLab&num=7)](https://github.com/daniCh8?tab=repositories)
+[![Top Languages](https://github-readme-stats.danich8.vercel.app/api/top-langs/?username=daniCh8&layout=compact&hide=VHDL,CSS,ShaderLab&num=8)](https://github.com/daniCh8?tab=repositories)
 
 #### See you next time!
 
