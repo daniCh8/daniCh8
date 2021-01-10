@@ -22,6 +22,12 @@ Here are some bullets about me:
 - 📚 I am currently pursuing a Master in Computer Science at ETH Zürich.
 - 🎲 In my free time, I love going snowboarding 🏂, playing basketball 🏀 and playing the guitar 🎸.
 
+#### GitHub Activity
+
+Here is an isometric calendar of my activity on GitHub during the last six months. 
+
+![isometric-calendar](https://metrics.lecoq.io/daniCh8?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)
+
 #### Languages Overview
 
 Here is a chart of my language usage in Github. <br />
