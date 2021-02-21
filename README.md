@@ -24,7 +24,7 @@ Here are some bullets about me:
 
 #### GitHub Activity
 
-Here is an isometric calendar of my activity on GitHub during the last six months. I hope it looks nice when you see it.
+Here is an isometric calendar of my activity on GitHub during the last six months. I hope it looks nice enough when you see it!
 
 [![isometric-calendar](https://metrics.lecoq.io/daniCh8?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)](https://github.com/daniCh8?tab=repositories)
 
