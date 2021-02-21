@@ -28,12 +28,11 @@ Here is an isometric calendar of my activity on GitHub during the last six month
 
 [![isometric-calendar](https://metrics.lecoq.io/daniCh8?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)](https://github.com/daniCh8?tab=repositories)
 
-#### Languages Overview
+#### Friendly Tune
 
-Here is a chart of my language usage in Github. <br />
-_**Please note that Most Used Languages does not indicate my skill level or similar**: it's a github metric of which languages i have the most code on github. You can find the original feature at [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). The one below is a slightly modified version from my fork [danich8/github-readme-stats](https://github.com/daniCh8/github-readme-stats)._
+Let's vibe to the same tunes!
 
-[![Top Languages](https://github-readme-stats-git-master.danich8.vercel.app/api/top-langs/?username=daniCh8&layout=compact&hide=VHDL,CSS,ShaderLab&num=9)](https://github.com/daniCh8?tab=repositories)
+[<img src="https://readme-spotify-status-seven.vercel.app/api/run-spotify-status" alt="Last Played" width="400" />](https://open.spotify.com/playlist/7zIOB1yfg0Myrq1Gfcz0h1?si=Xwg6-AEiSMqJy9-6dxc4GA)
 
 #### See you next time!
 
