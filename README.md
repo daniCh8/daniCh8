@@ -26,7 +26,7 @@ Here are some bullets about me:
 
 Here is an isometric calendar of my activity on GitHub during the last six months. I hope it looks nice enough when you see it!
 
-[![isometric-calendar](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)](https://github.com/daniCh8?tab=overview&from=2020-12-01&to=2020-12-31)
+[![isometric-calendar](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)
 
 #### Here is what I'm listening to these days:
 
