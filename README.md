@@ -28,11 +28,9 @@ Here is an isometric calendar of my activity on GitHub during the last six month
 
 [![isometric-calendar](https://metrics.lecoq.io/daniCh8?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FRome)](https://github.com/daniCh8?tab=repositories)
 
-#### Friendly Tune
+#### Hear what I'm hearing
 
-Let's vibe to the same tunes!
-
-[<img src="https://readme-spotify-status-seven.vercel.app/api/run-spotify-status" alt="Last Played" width="400" />](https://open.spotify.com/playlist/7zIOB1yfg0Myrq1Gfcz0h1?si=Xwg6-AEiSMqJy9-6dxc4GA)
+[<img src="https://readme-spotify-status-seven.vercel.app/api/run-spotify-status" alt="Last Played" width="500" />](https://open.spotify.com/playlist/7zIOB1yfg0Myrq1Gfcz0h1?si=Xwg6-AEiSMqJy9-6dxc4GA)
 
 #### See you next time!
 
