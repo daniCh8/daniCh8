@@ -24,13 +24,9 @@ Here are some bullets about me:
 
 #### GitHub Activity
 
-Here is an isometric calendar of my activity on GitHub during the last six months. I hope it looks nice enough when you see it!
+Here is an isometric calendar of my activity on GitHub during the last six months. 
 
 [![isometric-calendar](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)
-
-#### Here is what I'm listening to these days:
-
-[<img src="https://readme-spotify-status-seven.vercel.app/api/run-spotify-status" alt="Last Played" width="400" />](https://open.spotify.com/playlist/7zIOB1yfg0Myrq1Gfcz0h1?si=Xwg6-AEiSMqJy9-6dxc4GA)
 
 #### See you next time!
 
