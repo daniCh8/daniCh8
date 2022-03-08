@@ -17,7 +17,7 @@ I am a Computer Scientist from Italy, passionate about Software Developing, Comp
 Here are some bullets about me:
 
 -   🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
--   📚 I am currently pursuing a Master in Computer Science at ETH Zürich.
+-   📚 I am pursuing a Master in Computer Science at ETH Zürich. Currently, I am based in New York as a visitor student at Columbia University to work on my Master's Thesis.
 -   🎲 In my free time, I love going snowboarding 🏂, playing basketball 🏀 and playing the guitar 🎸.
 
 #### GitHub Activity
