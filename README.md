@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I am a Computer Scientist from Italy, passionate about Software Developing, Computer Vision and Deep Learning.
+I am a Computer Scientist from Italy, passionate about Software Development, Computer Vision and Deep Learning.
 Here are some bullets about me:
 
 -   🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
