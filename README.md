@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/dchiappalupi/">
   <img align="left" alt="Daniele Chiappalupi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/danich.8/">
-  <img align="left" alt="Daniele Chiappalupi | Instagram" width="22px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/instagram.svg" />
-</a>
 <a href="mailto:daniele.chiappalupi@gmail.com">
   <img align="left" alt="Daniele Chiappalupi | Gmail" width="22px" src="https://raw.githubusercontent.com/daniCh8/daniCh8/master/assets/gmail.svg" />
 </a>
