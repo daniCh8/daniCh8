@@ -18,12 +18,6 @@ Here are some bullets about me:
 -   🏫 I worked on my Master's Thesis as a visiting student at Columbia University, in New York.
 -   🎲 In my free time, I love going snowboarding 🏂, playing basketball 🏀 and playing the guitar 🎸.
 
-#### GitHub Activity
-
-Here is an isometric calendar of my activity on GitHub during the last six months.
-
-[![isometric-calendar](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)](https://github.com/daniCh8/daniCh8/blob/master/github-metrics.svg)
-
 #### See you next time!
 
 _Visitor count↴_
