@@ -13,9 +13,9 @@
 I am a Computer Scientist from Italy, passionate about Software Development, Computer Vision and Deep Learning.
 Here are some bullets about me:
 
--   🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering.
--   📚 I graduated with a Master's Degree in Computer Science at ETH Zürich.
+-   🎓 I graduated with honours from Politecnico di Milano with a Bachelor's degree in Computer Science and Engineering and with a Master's Degree in Computer Science at ETH Zurich.
 -   🏫 I worked on my Master's Thesis as a visiting student at Columbia University, in New York.
+-   👔 I currently work as a Software Engineer at UBS in Zurich.
 -   🎲 In my free time, I love going snowboarding 🏂, playing basketball 🏀 and playing the guitar 🎸.
 
 #### See you next time!
