@@ -16,12 +16,6 @@ Here are some bullets about me:
 -   🎓 I graduated with honours from `Politecnico di Milano` with a `Bachelor's degree` in `Computer Science and Engineering` and from `ETH Zurich` with a `Master's Degree` in `Computer Science`.
 -   🏫 I worked on my `Master's Thesis` as a visiting student at `Columbia University`, in New York.
 -   👔 I currently work as a `Software Engineer` at `Citadel` in London.
--   🎲 In my free time, I love going `snowboarding` 🏂, playing `basketball` 🏀 and playing the `guitar` 🎸.
+-   🎲 In my free time, I love going `snowboarding` 🏂, playing `basketball` 🏀, `tennis` 🎾, or the `guitar` 🎸.
 
 #### See you next time!
-
-_Visitor count↴_
-
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/daniCh8/count.svg" />
-</p>
